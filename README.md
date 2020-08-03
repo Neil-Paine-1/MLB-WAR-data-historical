@@ -12,11 +12,9 @@ JEFFBAGWELL WAR and various other metrics for MLB since 1901.
 | lg_ID         | League                                               |
 | PA            | Plate appearances                                    |
 | IP            | Innings pitched                                      |
-| key_fangraphs | FanGraphs ID                                         |
 | bWAR          | Batter wins above replacement (incl. defense)        |
 | pWAR          | Pitcher wins above replacement                       |
 | WAR           | Wins above replacement                               |
-| pitcher       | Player is pitcher (Y/N)                              |
 | BB_pct        | Walk rate (batting)                                  |
 | K_pct         | Strikeout rate (batting)                             |
 | ISO           | Isolated power                                       |
@@ -34,7 +32,6 @@ JEFFBAGWELL WAR and various other metrics for MLB since 1901.
 | FIPm          | Fielding Independent pitching-                       |
 | gmLI          | Avg Leverage index entering game                     |
 | pct_PT        | Share of total team playing time                     |
-| sched         | Team scheduled games                                 |
 | WAR162        | WAR per 162 team games                               |
 | def_pos       | Primary defensive position (will not include DH)     |
 

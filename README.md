@@ -34,4 +34,5 @@ JEFFBAGWELL WAR and various other metrics for MLB since 1901.
 | pct_PT        | Share of total team playing time                     |
 | WAR162        | WAR per 162 team games                               |
 | def_pos       | Primary defensive position (will not include DH)     |
+| Faux WinShares| WAR re-scaled to mimic Bill James' Win Shares        |
 

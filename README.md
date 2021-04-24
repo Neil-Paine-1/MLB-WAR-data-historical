@@ -1,5 +1,5 @@
 # MLB historical WAR data
-This file contains wins above replacement (WAR) data -- according to JEFFBAGWELL the (Joint Estimate Featuring FanGraphs and B-R Aggregated to Generate WAR, Equally Leveling Lists), which averages together WAR from Baseball-Reference.com and FanGraphs -- plus various other metrics for MLB since 1901.
+This file contains wins above replacement (WAR) data -- according to [JEFFBAGWELL](https://fivethirtyeight.com/features/can-we-play-nba-jam-with-mlb-teams/) (the Joint Estimate Featuring FanGraphs and B-R Aggregated to Generate WAR, Equally Leveling Lists), which averages together WAR from Baseball-Reference.com and FanGraphs -- plus various other metrics for MLB since 1901.
 
 
 

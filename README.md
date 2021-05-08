@@ -1,3 +1,8 @@
+# Last night...
+
+![image](https://user-images.githubusercontent.com/7140242/117538891-db798080-afd5-11eb-8cd4-e42f27060bd3.png)
+
+
 # MLB historical WAR data
 This file contains wins above replacement (WAR) data -- according to [JEFFBAGWELL](https://fivethirtyeight.com/features/can-we-play-nba-jam-with-mlb-teams/) (the Joint Estimate Featuring FanGraphs and B-R Aggregated to Generate WAR, Equally Leveling Lists), which averages together WAR from Baseball-Reference.com and FanGraphs -- plus various other metrics for MLB since 1901.
 

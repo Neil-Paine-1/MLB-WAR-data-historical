@@ -1,6 +1,6 @@
-# Last night in baseball...
+# Yesterday in baseball...
 
-![image](https://user-images.githubusercontent.com/7140242/118969878-993c3180-b93b-11eb-9842-d126ebe72543.png)
+![image](https://user-images.githubusercontent.com/7140242/119131429-79723f80-ba07-11eb-8701-0593daf9d9ef.png)
 
 
 # MLB historical WAR data

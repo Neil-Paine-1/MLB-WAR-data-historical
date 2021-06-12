@@ -1,6 +1,6 @@
 # Yesterday in baseball...
 
-![image](https://user-images.githubusercontent.com/7140242/121677545-ff702c00-ca83-11eb-9234-89e364dd34eb.png)
+![image](https://user-images.githubusercontent.com/7140242/121781541-45f08400-cb73-11eb-989f-cbc507687730.png)
 
 # MLB historical WAR data
 The file "mlb-war-data-historical.csv" contains wins above replacement (WAR) data -- according to [JEFFBAGWELL](https://fivethirtyeight.com/features/can-we-play-nba-jam-with-mlb-teams/) (the Joint Estimate Featuring FanGraphs and B-R Aggregated to Generate WAR, Equally Leveling Lists), which averages together WAR from Baseball-Reference.com and FanGraphs -- plus various other metrics for MLB since 1901.

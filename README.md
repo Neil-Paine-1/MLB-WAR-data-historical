@@ -5,7 +5,7 @@
 
 # MLB historical WAR data
 
-**Note:** *The combined Baseball-Reference/FanGraphs data here is out of date. After Baseball-Reference [added players from the Negro Leagues to its official MLB data](https://www.baseball-reference.com/negro-leagues-are-major-leagues.shtml) on June 15, I decided to pause JEFFBAGWELL updates until FanGraphs also adds those players. This is simply to keep the historical record from being extremely incomplete, with a vast number of players not able to have matching B-R and FG IDs and not existing in half of the datasets used.
+**Note:** *The combined Baseball-Reference/FanGraphs data here is out of date. After Baseball-Reference [added players from the Negro Leagues to its official MLB data](https://www.baseball-reference.com/negro-leagues-are-major-leagues.shtml) on June 15, I decided to pause JEFFBAGWELL updates until FanGraphs also adds those players. This is simply to keep the historical record from being extremely incomplete, with a vast number of players not able to have matching B-R and FG IDs and not existing in half of the datasets used.*
 
 The file "mlb-war-data-historical.csv" contains wins above replacement (WAR) data -- according to [JEFFBAGWELL](https://fivethirtyeight.com/features/can-we-play-nba-jam-with-mlb-teams/) (the Joint Estimate Featuring FanGraphs and B-R Aggregated to Generate WAR, Equally Leveling Lists), which averages together WAR from Baseball-Reference.com and FanGraphs -- plus various other metrics for MLB since 1901.
 

@@ -1,7 +1,3 @@
-# Yesterday in baseball...
-
-![image](https://user-images.githubusercontent.com/7140242/123796074-b953fe80-d8b2-11eb-8011-c67f3822b312.png)
-
 # MLB historical WAR data
 
 **Note:** *The combined Baseball-Reference/FanGraphs data here is out of date. After Baseball-Reference [added players from the Negro Leagues to its official MLB data](https://www.baseball-reference.com/negro-leagues-are-major-leagues.shtml) on June 15, I decided to pause JEFFBAGWELL updates until FanGraphs also adds those players. This is simply to keep the historical record from being extremely incomplete, with a vast number of players not able to have matching B-R and FG IDs and not existing in half of the datasets used.*

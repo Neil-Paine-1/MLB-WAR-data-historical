@@ -1,4 +1,4 @@
-**Note (Aug. 9, 2021):** *This is an old version of the readme for the historical dataset.*
+**Note (Aug. 9, 2021):** *This is an old version of the readme for the historical dataset. The file mlb-war-data-historical.csv is out of date.*
 
 
 # MLB historical WAR data

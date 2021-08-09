@@ -2,6 +2,8 @@
 
 The file "jeffbagwell_war_historical.csv" contains wins above replacement (WAR) data -- according to [JEFFBAGWELL](https://fivethirtyeight.com/features/can-we-play-nba-jam-with-mlb-teams/) (the Joint Estimate Featuring FanGraphs and B-R Aggregated to Generate WAR, Equally Leveling Lists), which averages together WAR from Baseball-Reference.com and FanGraphs -- plus various other metrics for MLB since 1901.
 
+Note that this file includes players from the Negro Leagues recently added to Baseball-Reference's database. For those players (and any others without matching FanGraphs IDs/stat entries), Baseball-Reference data is used solely for WAR and the various run values, and "+" stats (indexed to league average) are not currently available.
+
 
 |   Category    |                                              Description                                              |
 |---------------|-------------------------------------------------------------------------------------------------------|

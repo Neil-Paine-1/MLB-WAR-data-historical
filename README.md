@@ -14,7 +14,7 @@ Note that this file includes players from the Negro Leagues recently added to Ba
 | team_ID       | Team played for.                                                                                      |
 | stint_ID      | Stint no. (i.e., order of teams played for).                                                          |
 | lg_ID         | League played in.                                                                                     |
-| is_P          | Was the player a pitcher? (May be incomplete.)                                                        |
+| is_P          | Was the player a pitcher? Y/N (May be incomplete.)                                                        |
 | franch_ID     | Franchise played for (uses Lahman DB ID).                                                             |
 | sched         | No. of scheduled games for team.                                                                      |
 | g_bat         | Games as a batter.                                                                                    |

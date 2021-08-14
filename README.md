@@ -84,4 +84,4 @@ Note that this file includes players from the Negro Leagues recently added to Ba
 | arrived       | First season with franchise.                                                                          |
 | departed      | Last season with franchise.                                                                           |
 | next_tm       | Next franchise played for.                                                                            |
-
+| salary        | Salary earned that season (very incomplete before the 1990s).                                         |

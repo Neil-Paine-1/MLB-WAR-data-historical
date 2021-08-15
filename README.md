@@ -4,6 +4,7 @@ The file *"jeffbagwell_war_historical.csv"* contains wins above replacement (WAR
 
 Note that this file includes players from the Negro Leagues recently added to Baseball-Reference's database. For those players (and any others without matching FanGraphs IDs/stat entries), Baseball-Reference data is used solely for WAR and the various run values, and "+" stats (indexed to league average) are not currently available.
 
+One more note: Pitching JEFFBAGWELL now equally averages together WAR based on FIP (standard FanGraphs), runs allowed modified for defense (Baseball-Reference WAR) and WAR purely based on runs allowed (FG's RA9 WAR).
 
 |   Category    |                                              Description                                              |
 |---------------|-------------------------------------------------------------------------------------------------------|
@@ -84,4 +85,4 @@ Note that this file includes players from the Negro Leagues recently added to Ba
 | arrived       | First season with franchise.                                                                          |
 | departed      | Last season with franchise.                                                                           |
 | next_tm       | Next franchise played for.                                                                            |
-
+| salary        | Salary earned that season (very incomplete before the 1990s).                                         |
